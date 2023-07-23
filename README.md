@@ -199,6 +199,7 @@ In order to update the Ui colors (primary, secondary) this procedure needs to be
 - Regenerate CSS via `gulp` 
 
 ```bash
+$ cd static
 $ pnpm i # install modules
 $ # # edit variables 
 $ vi static/scss/volt/_variables.scss 
