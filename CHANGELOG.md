@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.0.2] 2023-07-23
+### Changes
+
+- Settings UPD
+  - Added Local STATIC 
+- DOCS (readme) 
+  - New Section for SCSS Compilation
+
 ## [1.0.1] 2023-02-04
 ### Changes
 
