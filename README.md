@@ -187,6 +187,37 @@ In a similar way, all other files and components can be customized easily.
 
 <br />
 
+## Recompile SCSS  
+
+The SCSS/CSS files used to style the UI are saved in the `<YOUR_ENV>/LIB/admin_volt_pro/static/assets` directory by PIP. 
+In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
+
+- Copy the `static` Directory from `VENV` to `ROOT/static` 
+  - like this, Django will use the local versions and ignore the `VENV` files 
+- Install dependencies via `PNPM`
+- Edit `_variables.scss`
+- Regenerate CSS via `gulp` 
+
+```bash
+$ pnpm i # install modules
+$ # # edit variables 
+$ vi static/scss/volt/_variables.scss 
+$ gulp # SCSS to CSS translation
+```
+
+The `_variables.scss` content defines the `primary` and `secondary` colors: 
+
+```scss
+// Contents of admin_volt_pro/static/scss/volt/_variables.scss
+// LINE 68+
+
+$primary  : #1F2937 !default; // EDIT
+$secondary: #f0bc74 !default; // EDIT 
+$tertiary : #31316A !default; // EDIT
+```
+
+<br />
+
 ## Deploy on [Render](https://render.com/)
 
 - Create a Blueprint instance
