@@ -187,7 +187,7 @@ In a similar way, all other files and components can be customized easily.
 
 <br />
 
-## Recompile SCSS  
+## Recompile SCSS   
 
 The SCSS/CSS files used to style the UI are saved in the `<YOUR_ENV>/LIB/admin_volt_pro/static/assets` directory by PIP. 
 In order to update the Ui colors (primary, secondary) this procedure needs to be followed. 
