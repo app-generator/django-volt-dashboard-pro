@@ -32,9 +32,8 @@
 > **Step 1** - Download the [code](https://appseed.us/product/volt-dashboard-pro/django/) and unzip the sources (requires a `purchase`). 
 
 ```bash
-$ # Get the code
-$ unzip django-volt-dashboard-enh.zip
-$ cd django-volt-dashboard-enh
+$ unzip django-volt-dashboard-pro.zip
+$ cd django-volt-dashboard-pro
 ```
 
 <br />
@@ -79,9 +78,8 @@ The meaning of each variable can be found below:
 > **Step 1** - Download the [code](https://appseed.us/product/volt-dashboard-pro/django/) and unzip the sources (requires a `purchase`). 
 
 ```bash
-$ # Get the code
-$ unzip django-volt-dashboard-enh.zip
-$ cd django-volt-dashboard-enh
+$ unzip django-volt-dashboard-pro.zip
+$ cd django-volt-dashboard-pro
 ```
 
 <br />
