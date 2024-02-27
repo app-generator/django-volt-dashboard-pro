@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.0.20] 2024-02-27
+### Changes
+
+- Update DOCS (readme)
+  - Added `Celery` Section 
+
 ## [1.0.19] 2024-02-08
 ### Changes
 
