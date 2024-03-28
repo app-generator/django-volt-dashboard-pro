@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.21] 2024-03-28
+### Changes
+
+- Fixes:
+  - Pagination not shown on DT
+  - #55: "Forgot your password" not working
+
 ## [1.0.20] 2024-02-27
 ### Changes
 
