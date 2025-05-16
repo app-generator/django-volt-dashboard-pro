@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.22] 2025-05-16
+### Changes
+
+- Codebase Refactoring
+- Added Dynamic Services
+- React Integration
+
 ## [1.0.21] 2024-03-28
 ### Changes
 
@@ -147,8 +154,8 @@
 
 - Update UI - Volt PRO v1.4.1
 - Added scripts to recompile the SCSS files
-    - `core/static/assets/` - gulpfile.js
-    - `core/static/assets/` - package.json
+    - `config/static/assets/` - gulpfile.js
+    - `config/static/assets/` - package.json
 
 ## [1.0.3] 2021-06-15
 
